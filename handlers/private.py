@@ -20,7 +20,7 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
 💠 /arama - Şarkıyı youtube üzerinden link olarak sıralar.
 💠 /userbotjoin - Asistanı sohbete davet etmek için. 
 💠 /userbotleave - Asistanı sohbetten çıkartmak için. 
-**Grubunuza özel müzik botu yaptırmak için sahibim ile iletişime geçebilirsiniz.**
+****
         """,
        
     )
