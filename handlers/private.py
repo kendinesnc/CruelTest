@@ -20,19 +20,7 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
 💠 /arama - Şarkıyı youtube üzerinden link olarak sıralar.
 💠 /userbotjoin - Asistanı sohbete davet etmek için. 
 💠 /userbotleave - Asistanı sohbetten çıkartmak için. 
-🤖 @Mehmett_12 tarafından @RgSohbet grubuna özel kodlanmıştır.
 **Grubunuza özel müzik botu yaptırmak için sahibim ile iletişime geçebilirsiniz.**
         """,
-        reply_markup=InlineKeyboardMarkup(
-            [
-                [
-                    InlineKeyboardButton(
-                        "Sohbet Grubumuz", url="https://t.me/cruelmuzikanal"
-                    ),
-                    InlineKeyboardButton(
-                        "Grubunuza Özel Bot Yaptırmak İçin", url="https://t.me/sancaklar_federasyonu"
-                    )
-                ]
-            ]
-        )
+       
     )
