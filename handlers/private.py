@@ -17,9 +17,6 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
 💠 /atla - Diğer şarkıya geçer.
 💠 /bitir - Botu kapatır.
 💠 /bul - Şarkı aratır.
-💠 /arama - Şarkıyı youtube üzerinden link olarak sıralar.
-💠 /cruelkatil - Asistanı sohbete davet etmek için. 
-💠 /cruelayril - Asistanı sohbetten çıkartmak için. 
 ****
         """,
        
